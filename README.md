@@ -28,7 +28,7 @@
 
 ## :dart: About
 
-**Estruturas de Dados em Javascript**
+**Estruturas de Dados em Javascript**<br>
 Implementação das estruturas de dados mais conhecidas utilizando a linguagem Javascript.
 
 ## 1. Pilha (Stack)
