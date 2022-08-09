@@ -83,6 +83,7 @@ Remover de qualquer lugar da lista também é possível e, da mesma forma que o 
 <div align="left"> 
   <img src="./src/assets/linkedList-03.png" alt="Linked List" />     
 </div>
+
 ## :rocket: Technologies
 
 The following tools were used in this project:
