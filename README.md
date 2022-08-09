@@ -44,6 +44,8 @@ A pilha é uma estrutura de dados básica que fornece a lógica conhecida por LI
   <p><i>Passo a passo de um funcionamento de uma Pilha/Stack.</i></p>  
 </div>
 
+<br><br>
+
 ## 2. Fila (Queue)
 
 <div align="left"> 
@@ -58,6 +60,29 @@ A fila é uma estrutura de dados muito útil quando se possui um serviço ao qua
   <img src="./src/assets/fila-02.png" alt="Fila" />     
 </div>
 
+<br><br>
+
+## 3. Lista Encadeada Simples(Linked List)
+
+<div align="left"> 
+  <img src="./src/assets/linkedList-01.png" alt="Linked List" />     
+</div>
+
+A lista simples, também conhecido como lista encadeada simples ou lista de um caminho é um tipo básico de estrutura de dados que tem por foco a flexibilidade no manuseio das informações nela contida.
+
+Ela é disposta por nós (Nodes) que se conectam a no máximo 1 outro nó e não possuem conhecimento se um nó é ligado a eles. A forma mais simples de pensar na lista seria um número X de caixas colocadas em fila e cada uma contem duas informações: O dado (informação) e a referência (código) para a próxima caixa.
+
+Ao contrario das estruturas de dados apresentadas anteriormente como pilhas e filas, a lista é bem mais flexível e permite que novos itens sejam adicionados em qualquer local. Quando isso acontece, ocorrerá o nó anterior e o que está naquela posição terão que ser ajustados conforme a imagem:
+
+<div align="left"> 
+  <img src="./src/assets/linkedList-02.png" alt="Linked List" />     
+</div>
+
+Remover de qualquer lugar da lista também é possível e, da mesma forma que o método de adicionar, será necessário ajustar os nós anteriores e posteriores de acordo.
+
+<div align="left"> 
+  <img src="./src/assets/linkedList-03.png" alt="Linked List" />     
+</div>
 ## :rocket: Technologies
 
 The following tools were used in this project:
